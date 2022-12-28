@@ -21,7 +21,7 @@
 4. Database
 
    ```laravel
-   create a database with the name hamo
+   create a database with the name helia
    and
    import database
    ```
